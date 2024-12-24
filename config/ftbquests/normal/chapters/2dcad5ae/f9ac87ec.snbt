@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 3.0d,
+	dependencies: [
+		"64c30735"
+	],
+	tasks: [{
+		uid: "e1b67de5",
+		type: "item",
+		items: [{
+			item: "thaumcraft:thaumium_helm"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	title: "{stp.quests.a345ad9e.title}",
+	x: 5.0d,
+	y: 1.0d,
+	description: "{stp.quests.a345ad9e.description}",
+	text: [
+		"{stp.quests.a345ad9e.text.1}",
+		"{stp.quests.a345ad9e.text.2}"
+	],
+	dependencies: [
+		"acdde84f"
+	],
+	tasks: [{
+		uid: "3685a131",
+		type: "item",
+		items: [{
+			item: "gregtech:fluid_pipe_small 1 260"
+		}],
+		count: 6L,
+		consume_items: false
+	}]
+}

@@ -1,0 +1,13 @@
+name = "Starry Night Pray"
+author = "tEam-StP"
+version = "3.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3c5971371e8ce8fd35446dd645fc8d65f2a3312f5fdbcda6706174ed417a4dbc"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"

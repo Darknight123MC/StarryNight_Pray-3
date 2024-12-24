@@ -1,0 +1,16 @@
+{
+	title: "{stp.quests.f16a8ee3.title}",
+	x: 11.0d,
+	y: 8.0d,
+	description: "{stp.quests.f16a8ee3.description}",
+	dependencies: [
+		"5cba6a97"
+	],
+	tasks: [{
+		uid: "b63f9fe6",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:fracture_locator"
+		}]
+	}]
+}

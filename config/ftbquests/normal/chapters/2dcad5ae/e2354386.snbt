@@ -1,0 +1,21 @@
+{
+	title: "{stp.quests.e2354386.title}",
+	x: 0.0d,
+	y: 0.0d,
+	description: "{stp.quests.e2354386.description}",
+	text: [
+		"{stp.quests.e2354386.text.1}",
+		"{stp.quests.e2354386.text.2}",
+		"{stp.quests.e2354386.text.3}",
+		"{stp.quests.e2354386.text.4}",
+		"{stp.quests.e2354386.text.5}",
+		"{stp.quests.e2354386.text.6}"
+	],
+	tasks: [{
+		uid: "379a83db",
+		type: "item",
+		items: [{
+			item: "gregtech:ore_magic_0"
+		}]
+	}]
+}

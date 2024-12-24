@@ -1,0 +1,14 @@
+{
+	title: "{stp.quests.a936eba0.title}",
+	x: 13.5d,
+	y: 8.0d,
+	description: "{stp.quests.a936eba0.description}",
+	dependencies: [
+		"f16a8ee3"
+	],
+	tasks: [{
+		uid: "8ef7f333",
+		type: "dimension",
+		dim: 14676
+	}]
+}

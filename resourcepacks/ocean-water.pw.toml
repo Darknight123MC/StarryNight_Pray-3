@@ -1,0 +1,13 @@
+name = "Ocean Water [Discontinued]"
+filename = "OceanWater-v1.0-1.11.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f8c98690701d2f6dbad1ffa2f11f4caac4659cb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2594396
+project-id = 299401

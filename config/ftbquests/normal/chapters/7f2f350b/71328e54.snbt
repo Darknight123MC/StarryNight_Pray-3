@@ -1,0 +1,16 @@
+{
+	title: "{stp.quests.71328e54.title}",
+	icon: "thaumcraft:crucible",
+	x: -3.0d,
+	y: -1.5d,
+	description: "{stp.quests.71328e54.description}",
+	text: [
+		"{stp.quests.71328e54.text.1}",
+		"{stp.quests.71328e54.text.2}",
+		"{stp.quests.71328e54.text.3}",
+		"{stp.quests.71328e54.text.4}"
+	],
+	dependencies: [
+		"8fa63541"
+	]
+}

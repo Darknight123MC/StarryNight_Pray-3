@@ -1,0 +1,26 @@
+{
+	title: "{stp.quests.f8a5a33c.title}",
+	x: 2.0d,
+	y: -1.5d,
+	description: "{stp.quests.f8a5a33c.description}",
+	tasks: [{
+		uid: "ec9dae8a",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any gtceMortars"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "gtceMortars"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

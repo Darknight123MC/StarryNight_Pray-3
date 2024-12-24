@@ -1,0 +1,14 @@
+item.contenttweaker.dragon_cell.name=龙细胞
+tile.contenttweaker.light_emitting_panel_0.name=太阳能光辐射吸收板 (WIP)
+tile.contenttweaker.light_emitting_panel_1.name=高级太阳能光辐射吸收板 (WIP)
+tile.contenttweaker.light_emitting_panel_2.name=终极太阳能光辐射吸收板 (WIP)
+tile.contenttweaker.void_casing.name=虚空金属机械方块
+tile.contenttweaker.thaumium_casing.name=神秘机械方块
+item.contenttweaker.stellar_debris.name=恒星碎片
+item.contenttweaker.solid_hydrogen.name=固态氢
+item.contenttweaker.dense_hydrogen.name=致密氢
+item.contenttweaker.hyper_dense_hydrogen.name=超致密氢
+item.contenttweaker.artificial_sun.name=人造太阳
+item.contenttweaker.star_container.name=恒星容器
+item.contenttweaker.high_energy_flow_circuit.name=高能量流电路
+tile.contenttweaker.extreme_casing.name=极限机械方块

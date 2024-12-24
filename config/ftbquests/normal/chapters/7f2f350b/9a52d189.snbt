@@ -1,0 +1,21 @@
+{
+	title: "{stp.quests.9a52d189.title}",
+	x: -0.5d,
+	y: -1.5d,
+	description: "{stp.quests.9a52d189.description}",
+	text: [
+		"{stp.quests.9a52d189.text.1}",
+		"{stp.quests.9a52d189.text.2}",
+		"{stp.quests.9a52d189.text.3}"
+	],
+	dependencies: [
+		"71328e54"
+	],
+	tasks: [{
+		uid: "1697e8cb",
+		type: "item",
+		items: [{
+			item: "thaumcraft:nugget 1 9"
+		}]
+	}]
+}

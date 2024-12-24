@@ -1,0 +1,24 @@
+{
+	x: 4.0d,
+	y: 6.0d,
+	description: "{stp.quests.c36c7a71.description}",
+	text: [
+		"{stp.quests.c36c7a71.text.1}",
+		"{stp.quests.c36c7a71.text.2}",
+		"{stp.quests.c36c7a71.text.3}",
+		"{stp.quests.c36c7a71.text.4}",
+		"{stp.quests.c36c7a71.text.5}"
+	],
+	dependencies: [
+		"7c7ae768"
+	],
+	tasks: [{
+		uid: "25c35bfa",
+		type: "item",
+		items: [{
+			item: "thaumcraft:focus_2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

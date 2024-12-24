@@ -1,0 +1,19 @@
+{
+	x: 3.0d,
+	y: -1.0d,
+	text: [
+		"{stp.quests.6f633b39.text.1}",
+		"{stp.quests.6f633b39.text.2}",
+		"{stp.quests.6f633b39.text.3}",
+		"{stp.quests.6f633b39.text.4}",
+		"{stp.quests.6f633b39.text.5}"
+	],
+	dependencies: [
+		"359c7ae0"
+	],
+	tasks: [{
+		uid: "3989d0c7",
+		type: "fluid",
+		fluid: "phenol"
+	}]
+}

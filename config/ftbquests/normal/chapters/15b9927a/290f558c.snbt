@@ -1,0 +1,22 @@
+{
+	title: "{stp.quests.290f558c.title}",
+	x: 7.5d,
+	y: 6.002976190476176d,
+	shape: "pentagon",
+	description: "{stp.quests.290f558c.description}",
+	text: [
+		"{stp.quests.290f558c.text.1}"
+	],
+	dependencies: [
+		"27431c6f",
+		"63c21670"
+	],
+	size: 1.25d,
+	tasks: [{
+		uid: "a173fe6c",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 634"
+		}]
+	}]
+}

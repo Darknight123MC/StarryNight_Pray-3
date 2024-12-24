@@ -1,0 +1,47 @@
+{
+	title: "{stp.quests.adf4e64a.title}",
+	icon: {
+		id: "gregtech:meta_tool",
+		Damage: 8s,
+		tag: {
+			GT.ToolStats: {
+				Material: "neutronium"
+			}
+		}
+	},
+	x: -2.5d,
+	y: 10.0d,
+	description: "{stp.quests.adf4e64a.description}",
+	text: [
+		"{stp.quests.adf4e64a.text.1}",
+		"{stp.quests.adf4e64a.text.2}"
+	],
+	dependencies: [
+		"43b45e0e"
+	],
+	tasks: [{
+		uid: "ac8d6a2a",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any craftingToolWrench"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "craftingToolWrench"
+				}
+			}
+		}],
+		consume_items: false,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8585d905",
+		type: "item",
+		item: "gregtech:meta_tool_head_wrench 1 276"
+	}]
+}

@@ -1,0 +1,28 @@
+{
+	title: "{stp.quests.70f2e6b7.title}",
+	x: 16.0d,
+	y: 2.0d,
+	description: "{stp.quests.70f2e6b7.description}",
+	text: [
+		"{stp.quests.70f2e6b7.text.1}",
+		"{stp.quests.70f2e6b7.text.2}",
+		"{stp.quests.70f2e6b7.text.3}",
+		"{stp.quests.70f2e6b7.text.4}",
+		"{stp.quests.70f2e6b7.text.5}",
+		"{stp.quests.70f2e6b7.text.6}",
+		"{stp.quests.70f2e6b7.text.7}",
+		"{stp.quests.70f2e6b7.text.8}",
+		"{stp.quests.70f2e6b7.text.9}",
+		"{stp.quests.70f2e6b7.text.10}"
+	],
+	dependencies: [
+		"f1953f8c"
+	],
+	tasks: [{
+		uid: "d9c781ba",
+		type: "item",
+		items: [{
+			item: "thaumcraft:void_seed"
+		}]
+	}]
+}

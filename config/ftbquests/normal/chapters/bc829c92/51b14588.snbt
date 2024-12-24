@@ -1,0 +1,20 @@
+{
+	title: "{stp.quests.51b14588.title}",
+	x: 2.5d,
+	y: 2.0d,
+	description: "{stp.quests.51b14588.description}",
+	text: [
+		"{stp.quests.51b14588.text.1}",
+		"{stp.quests.51b14588.text.2}"
+	],
+	dependencies: [
+		"acdde84f"
+	],
+	tasks: [{
+		uid: "ae351dc5",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 3"
+		}]
+	}]
+}

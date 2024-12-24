@@ -1,0 +1,26 @@
+{
+	title: "{stp.quests.84d65782.title}",
+	x: 2.0d,
+	y: 4.0d,
+	description: "{stp.quests.84d65782.description}",
+	text: [
+		"{stp.quests.84d65782.text.1}",
+		"{stp.quests.84d65782.text.2}",
+		"{stp.quests.84d65782.text.3}",
+		"{stp.quests.84d65782.text.4}",
+		"{stp.quests.84d65782.text.5}",
+		"{stp.quests.84d65782.text.6}"
+	],
+	dependencies: [
+		"08641d01"
+	],
+	tasks: [{
+		uid: "a1e4b669",
+		type: "item",
+		items: [{
+			item: "thaumcraft:caster_basic"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

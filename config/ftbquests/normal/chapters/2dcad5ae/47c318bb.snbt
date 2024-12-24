@@ -1,0 +1,44 @@
+{
+	title: "{stp.quests.47c318bb.title}",
+	icon: "thaumcraft:infusion_matrix",
+	x: 12.0d,
+	y: 2.0d,
+	description: "{stp.quests.47c318bb.description}",
+	text: [
+		"{stp.quests.47c318bb.text.1}",
+		"{stp.quests.47c318bb.text.2}",
+		"{stp.quests.47c318bb.text.3}",
+		"{stp.quests.47c318bb.text.4}",
+		"{stp.quests.47c318bb.text.5}",
+		"{stp.quests.47c318bb.text.6}",
+		"{stp.quests.47c318bb.text.7}",
+		"{stp.quests.47c318bb.text.8}",
+		"{stp.quests.47c318bb.text.9}"
+	],
+	dependencies: [
+		"b7a64841"
+	],
+	tasks: [{
+		uid: "a57aeef7",
+		type: "item",
+		items: [{
+			item: "thaumcraft:infusion_matrix"
+		}]
+	},
+	{
+		uid: "568dbf1b",
+		type: "item",
+		items: [{
+			item: "thaumcraft:pedestal_arcane"
+		}],
+		count: 3L
+	},
+	{
+		uid: "499e00ea",
+		type: "item",
+		items: [{
+			item: "thaumcraft:stone_arcane"
+		}],
+		count: 10L
+	}]
+}

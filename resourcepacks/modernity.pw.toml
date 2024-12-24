@@ -1,0 +1,13 @@
+name = "Modernity"
+filename = "Modernity-format3-v3.7.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef83c57664f33b52a323d0a77b76b20d46771f52"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3864852
+project-id = 300317

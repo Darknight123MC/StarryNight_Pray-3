@@ -1,0 +1,21 @@
+{
+	title: "{stp.quests.8a17359d.title}",
+	icon: "botania:cosmetic 1 31",
+	x: 0.0d,
+	y: 5.0d,
+	shape: "diamond",
+	description: "{stp.quests.8a17359d.description}",
+	text: [
+		"{stp.quests.8a17359d.text.1}",
+		"{stp.quests.8a17359d.text.2}",
+		"{stp.quests.8a17359d.text.3}",
+		"{stp.quests.8a17359d.text.4}"
+	],
+	dependencies: [
+		"1f3504d7"
+	],
+	tasks: [{
+		uid: "e7341dad",
+		type: "checkmark"
+	}]
+}

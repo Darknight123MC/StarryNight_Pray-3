@@ -1,0 +1,18 @@
+{
+	title: "{stp.quests.5cba6a97.title}",
+	x: 11.0d,
+	y: 6.0d,
+	description: "{stp.quests.5cba6a97.description}",
+	dependencies: [
+		"7b84523c",
+		"9e4c08c2",
+		"0e00eacb"
+	],
+	tasks: [{
+		uid: "16aa345b",
+		type: "item",
+		items: [{
+			item: "thaumicaugmentation:material 1 3"
+		}]
+	}]
+}
