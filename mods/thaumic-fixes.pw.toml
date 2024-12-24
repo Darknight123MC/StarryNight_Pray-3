@@ -1,0 +1,13 @@
+name = "Thaumic Fixes"
+filename = "thaumicfixes-1.0-nolibs.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d081378c28212ebc57f9cb0a5374b37a31aa654"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3544037
+project-id = 551619

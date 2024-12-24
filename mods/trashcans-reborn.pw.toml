@@ -1,0 +1,13 @@
+name = "Garbage Bins"
+filename = "GarbageBins-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d6b0198618e1f1358966641be12609fe2c3af4fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2675062
+project-id = 286710

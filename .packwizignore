@@ -1,0 +1,14 @@
+# Not modpack files
+.idea/
+.git/
+.gitignore
+.gitattributes
+
+# Useless
+changelog.txt
+LICENSE
+modlist.txt
+options.txt
+optionsof.txt
+Start-up_parameters.txt
+version.1.3_alpha

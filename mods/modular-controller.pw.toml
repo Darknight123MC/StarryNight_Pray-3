@@ -1,0 +1,13 @@
+name = "Modular Controller"
+filename = "ModularController-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51a39d645ec35ba1277fba62dff7dc1da8075913"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3672149
+project-id = 525389

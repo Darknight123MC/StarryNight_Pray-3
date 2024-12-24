@@ -1,0 +1,13 @@
+name = "Volumetric Flask"
+filename = "volumetricflask-0.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2544cbf673ba5b1e631fdb9805b48966bf61a1c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3008019
+project-id = 349942

@@ -1,0 +1,13 @@
+name = "Just Enough Drags"
+filename = "justenoughdrags-1.1-beta.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8122a6676a453e12b868e8f5fdfdfd7875436354"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3229257
+project-id = 454215

@@ -1,0 +1,13 @@
+name = "Ender IO Forestry"
+filename = "EnderIO-integration-forestry-1.12.2-5.3.70.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e492321439867be2c971423ddb070969c128e296"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3328804
+project-id = 297202

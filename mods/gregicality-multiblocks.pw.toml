@@ -1,0 +1,13 @@
+name = "Gregicality Multiblocks"
+filename = "GregicalityMultiblocks-1.12.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f291937542c35952eaeb520774b00f6d7724acf9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3783615
+project-id = 564858

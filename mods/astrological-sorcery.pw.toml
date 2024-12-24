@@ -1,0 +1,13 @@
+name = "Astrological Sorcery"
+filename = "astrologicalsorcery-1.12.2-1.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "13dcc5d70819a50f34a260ae0420c7b582025a72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2951067
+project-id = 380603

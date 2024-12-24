@@ -1,0 +1,13 @@
+name = "Probe"
+filename = "probe-0.1.24.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7cbb8bff4af2e3f18c6f58bf5ca25fbb64508680"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2984104
+project-id = 312683

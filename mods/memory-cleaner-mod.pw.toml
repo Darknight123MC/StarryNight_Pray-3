@@ -1,0 +1,13 @@
+name = "Memory Cleaner Mod"
+filename = "memorycleaner-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b5552ae77b2be2e7b06ec7cbd9b925efdb5152df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3200622
+project-id = 422669

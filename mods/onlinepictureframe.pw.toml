@@ -1,0 +1,13 @@
+name = "OnlinePictureFrame"
+filename = "OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ea2e025fbe71285ff1bc65a6260813b75d8ec732"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3047154
+project-id = 257815
