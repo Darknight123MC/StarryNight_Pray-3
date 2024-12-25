@@ -5644,6 +5644,11 @@ hash = "29485e844486f243f8d6b8b2428ee5b362295fde9d5ab00a6367d4402475c78b"
 metafile = true
 
 [[files]]
+file = "mods/filedirector.pw.toml"
+hash = "674a47dfdf5b2f7b85c5efade17c8a18a6d7ccddb1aaa5f2cfbc70b966a6cc73"
+metafile = true
+
+[[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "a9fa720cb799b8a70ad7411c16c8c61b87883fffba58117ecd3e7976f18c4f40"
 metafile = true

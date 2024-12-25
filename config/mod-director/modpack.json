@@ -1,0 +1,9 @@
+{
+  "packName": "StarryNight Pray 3",
+  "icon":
+  {
+    "path": "resources/stp/textures/icon.png",
+    "width": 32,
+    "height": 32
+  }
+}
