@@ -106,6 +106,14 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
+			<oreDict>ingotHslaSteel</oreDict>
+		</input>
+		<output>
+			<itemStack>gregtech:meta_stick;2;3020</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
 			<oreDict>ingotDuranium</oreDict>
 		</input>
 		<output>
@@ -118,6 +126,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:meta_stick;2;1007</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotHastelloyX</oreDict>
+		</input>
+		<output>
+			<itemStack>gregtech:meta_stick;2;3004</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -158,6 +174,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:meta_stick;2;290</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotHastelloyC276</oreDict>
+		</input>
+		<output>
+			<itemStack>gregtech:meta_stick;2;3003</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -222,6 +246,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:meta_stick;2;2013</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotMaragingSteel300</oreDict>
+		</input>
+		<output>
+			<itemStack>gregtech:meta_stick;2;3002</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -346,6 +378,14 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
+			<oreDict>ingotMolybdenumDisilicide</oreDict>
+		</input>
+		<output>
+			<itemStack>gregtech:meta_stick;2;3009</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
 			<oreDict>ingotBlueSteel</oreDict>
 		</input>
 		<output>
@@ -438,6 +478,14 @@
 		</input>
 		<output>
 			<itemStack>gregtech:meta_stick;2;2519</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotWatertightSteel</oreDict>
+		</input>
+		<output>
+			<itemStack>gregtech:meta_stick;2;3001</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
@@ -706,10 +754,26 @@
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">
 		<input>
+			<oreDict>ingotIncoloyMa956</oreDict>
+		</input>
+		<output>
+			<itemStack>gregtech:meta_stick;2;3022</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
 			<oreDict>ingotInvar</oreDict>
 		</input>
 		<output>
 			<itemStack>gregtech:meta_stick;2;287</itemStack>
+		</output>
+	</Recipe>
+	<Recipe timeRequired="300" power ="20">
+		<input>
+			<oreDict>ingotRtmAlloy</oreDict>
+		</input>
+		<output>
+			<itemStack>gregtech:meta_stick;2;451</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="300" power ="20">

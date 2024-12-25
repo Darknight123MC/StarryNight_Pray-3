@@ -1,7 +1,0 @@
-{
-	title: "{stp.quests.37886742.title}",
-	icon: "ironchest:iron_chest 1 2",
-	always_invisible: false,
-	group: 370437043,
-	default_quest_shape: ""
-}

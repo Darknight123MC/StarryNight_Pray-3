@@ -15,12 +15,12 @@
         - [MultiblockTweaker][multiblocktweaker-1.12.2-stable-gtceu-1.7.1]
         - [GCYM][GregicalityMultiblocks-1.12.2-1.1.2][实际版本 1.1.3]
 
-    - [应用能源 2 非官方延长寿命版][appliedenergistics2-rv6-stable-7-extended_life-v0.52.3]
+    - [应用能源 2 非官方延长寿命版][ae2-uel-v0.56.6]
         (附属)
         - [封包合成][PackagedAuto-1.12.2-1.0.5.19]
-        - [流体合成][ae2fc-1.12.2-1.0.11]
+        - [流体合成][Fluid Craft for AE2-2.6.6-r]
         - [懒人AE][lazy-ae2-1.12.2-1.1.26]
-        - [AE附加 更多存储元件][AEAdditions-1.12.2-1.3.4]
+        - [AE附加 更多存储元件][nae2-1.6.4]
         - [神秘能源][thaumicenergistics-v2.2.3-delfayne-fork-SNAPSHOT-2]
         - [JEI 应用能源支持][NotEnoughEnergistics-1.12.2-1.2.4]
         - [无线终端前置][AE2WTLib-1.12.2-1.0.34]
@@ -38,7 +38,7 @@
         - [匠魂JEI][tinkersjei-1.2]
         - [JEI 应用能源支持][NotEnoughEnergistics-1.12.2-1.2.4]
 
-    - [高级火箭][AdvancedRocketry-1.12.2-2.0.0-12]
+    - [高级火箭][AdvancedRocketry-1.12.2-2.1.4-9]
     - [星辉魔法][astralsorcery-1.12.2-1.10.27]
         (附属)
         - [星占魔法][astrologicalsorcery-1.12.2-1.1.3]
@@ -320,6 +320,7 @@
     - [简单联机][ServerPropertiesLAN-2.65]
     - [闭嘴！模型加载器！][shutupmodelloader-1.12.2-1.0.0]
     - [日志过滤器][StuffASockInIt-1.12.2-1.1.32]
+    - [3D皮肤][3dSkinLayers-forge-mc1.12.2-1.2.0]
 
     修复:
     - [更大的发包][biggerpacketsplz-since1.8-1.2]

@@ -151,6 +151,8 @@
       "minecraft:enderman"
     ],
     "extra_werewolf_entities": [],
-    "night_biomes": []
+    "night_biomes": [
+      "biomesoplenty:ominous_woods"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 ##[general]
 
 [Stop vanilla world music when in a customizable menu.]
-B:stopworldmusicwhencustomizable = 'true';
+B:stopworldmusicwhencustomizable = 'false';
 [If menu background sounds added by FancyMenu should be played when a world is loaded.]
 B:playbackgroundsoundsinworld = 'false';
 B:forcefullscreen = 'false';
@@ -10,42 +10,27 @@ B:playbackgroundsounds = 'true';
 [A minecraft restart is required after changing this value.]
 B:enablehotkeys = 'true';
 B:playmenumusic = 'true';
+S:variables_to_reset_on_launch = '';
 B:showdebugwarnings = 'true';
 [Sets the default GUI scale on first launch. Useful for modpacks. Cache data is saved in '/mods/fancymenu/'.]
-I:defaultguiscale = '3';
+I:defaultguiscale = '-1';
 
 
 ##[customization]
 
-B:advancedmode = 'true';
-B:showcustomizationbuttons = 'false';
+B:advancedmode = 'false';
+B:showcustomizationbuttons = 'true';
 
 
 ##[mainmenu]
 
 S:copyrightposition = 'bottom-right';
-B:hidebranding = 'true';
 S:copyrightcolor = '#ffffff';
-B:hidelogo = 'true';
-B:hiderealmsnotifications = 'true';
-B:hideforgenotifications = 'true';
-
-
-##[mainmenu_splash]
-
-S:splashcolor = '#ffff00';
-I:splashrotation = '-20';
-I:splashy = '25';
-I:splashx = '100';
-B:hidesplashtext = 'true';
-S:splashtextfile = '';
-S:splashorientation = 'original';
 
 
 ##[loading]
 
 B:allowgameintroskip = 'true';
-S:loadinganimationcolor = '#E22837';
 B:showanimationloadingstatus = 'true';
 S:gameintroanimation = '';
 B:preloadanimations = 'true';
@@ -55,9 +40,9 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'StP ModPack by StarryNight-Team';
+S:customwindowtitle = '';
 [A minecraft restart is required after changing this value.]
-B:customwindowicon = 'true';
+B:customwindowicon = 'false';
 
 
 ##[multiplayer_screen]
@@ -81,4 +66,10 @@ B:showvanillamovewarning = 'true';
 
 ##[ui]
 
-F:uiscale = '2';
+B:show_unicode_warning = 'true';
+F:uiscale = '1.0';
+
+
+##[compatibility]
+
+B:allow_level_registry_interactions = 'true';

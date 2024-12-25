@@ -1,7 +1,0 @@
-{
-	title: "{stp.quests.b5467531.title}",
-	icon: "gregtech:machine 1 987",
-	always_invisible: false,
-	group: -1097345554,
-	default_quest_shape: ""
-}

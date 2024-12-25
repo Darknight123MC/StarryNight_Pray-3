@@ -5334,6 +5334,11 @@ hash = "047ea8e0c2ab84aab7e185357a6e5f2dbb75059ba7a0044cd4a22a98dbbcdb84"
 metafile = true
 
 [[files]]
+file = "mods/advanced-rocketry-2.pw.toml"
+hash = "937e0ffab3b40045e95f8f4190082c70fb607cccfaccf794be784e7a11246385"
+metafile = true
+
+[[files]]
 file = "mods/advanced-rocketry.pw.toml"
 hash = "71087571c7be4308076a4a24f45c231969b05a7753b9616c8bdde50611a517b6"
 metafile = true
@@ -5345,7 +5350,12 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-extended-life.pw.toml"
-hash = "db1a6e4d53e0afc0428b745607418caf70a5f9c82094eb65572210bba7b0d650"
+hash = "b0db116adb0cfd8b765ca88d24db5adfa562259252a34d5446fb63b11c52ea17"
+metafile = true
+
+[[files]]
+file = "mods/ae2-fluid-crafting-rework.pw.toml"
+hash = "321b793ef48a9f6d54cb6ca6ecafda3c4616e76ea77901f52365c1c7bd8a1e84"
 metafile = true
 
 [[files]]
@@ -5371,6 +5381,11 @@ metafile = true
 [[files]]
 file = "mods/architecturecraft-tridev.pw.toml"
 hash = "0f75fe97e49682f923deb32fcf5031fa2cce7a8fafe1263b000340ffcba33112"
+metafile = true
+
+[[files]]
+file = "mods/arlib.pw.toml"
+hash = "6f3cd79eb43142203ba21deb183b39a1e8532a8c6e87ab7cb4ff607adfb8a2ea"
 metafile = true
 
 [[files]]
@@ -5855,7 +5870,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixin-booter.pw.toml"
-hash = "3be6b5e358209824169142396908a1ecc579a1761a9ad280a9560aa2819bf90f"
+hash = "f50f6d7f8fb9a8cbeaa61b2ef04d0028d0999af789ae6946d769b66a0464bc2b"
 metafile = true
 
 [[files]]
@@ -5911,6 +5926,11 @@ metafile = true
 [[files]]
 file = "mods/multiblocktweaker.pw.toml"
 hash = "e53d878910edca8d1708283ce17bbcb6f481f50b18f0b0ca2db0de679d81ebcb"
+metafile = true
+
+[[files]]
+file = "mods/nae2.pw.toml"
+hash = "108eab3cfbc1a3e6c73bcc27927979a84c58fd435ee929ab53bbc9926e6b5246"
 metafile = true
 
 [[files]]
