@@ -1,0 +1,16 @@
+filename = 'smooth-scrolling-everywhere-1.1.jar'
+name = 'Smooth Scrolling Everywhere (Forge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12-Snapshot', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c369824313bf52feeec4b8edf0f5b460ad016cfe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2922328
+project-id = 327056

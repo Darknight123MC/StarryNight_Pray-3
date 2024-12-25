@@ -1,0 +1,16 @@
+filename = 'champions-1.12.2-1.0.11.10.jar'
+name = 'Champions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9f7e8a83d41fa923634dff487bec545b99c8e7cc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3177947
+project-id = 307152

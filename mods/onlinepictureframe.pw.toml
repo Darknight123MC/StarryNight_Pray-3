@@ -1,0 +1,16 @@
+filename = 'OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar'
+name = 'OnlinePictureFrame'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ea2e025fbe71285ff1bc65a6260813b75d8ec732'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3047154
+project-id = 257815

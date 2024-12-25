@@ -1,0 +1,16 @@
+filename = 'NoiseThreader-1.0.0.jar'
+name = 'NoiseThreader'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b448f1e86d4c686e2490aeeab38c2a7b6fc2d6f4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5964549
+project-id = 1153744

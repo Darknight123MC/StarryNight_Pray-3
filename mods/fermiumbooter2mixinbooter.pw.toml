@@ -1,0 +1,16 @@
+filename = '`FermiumBooterDepoliticization-1.1.1.jar'
+name = 'FermiumBooterDepoliticization'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f75930d7cd14aeebede7e278dab6fdb9080ecf92'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6013369
+project-id = 1163720

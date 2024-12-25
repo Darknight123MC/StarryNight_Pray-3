@@ -1,0 +1,16 @@
+filename = 'gregtech-1.12.2-2.8.10-beta.jar'
+name = 'GregTech CE Unofficial'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '0c72d4b7b87092d4068c3cb660c95c2c845174c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5519022
+project-id = 557242

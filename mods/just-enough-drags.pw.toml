@@ -1,0 +1,16 @@
+filename = 'justenoughdrags-1.4-beta.1.jar'
+name = 'Just Enough Drags'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '47cf3889247a10e60e9f843fe9d026c5c8ba8fa6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3549266
+project-id = 454215

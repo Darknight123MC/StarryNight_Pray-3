@@ -1,0 +1,16 @@
+filename = 'UniDict-1.12.2-3.0.10.jar'
+name = 'UniDict'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2b72e49682aca50fa55522c5080f2ba20173c565'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3553627
+project-id = 244258

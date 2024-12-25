@@ -1,0 +1,16 @@
+filename = 'TConstruct-1.12.2-2.13.0.183.jar'
+name = 'Tinkers Construct'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e37e1f05ad0eaf567497ce655bc877dc1778bd0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2902483
+project-id = 74072

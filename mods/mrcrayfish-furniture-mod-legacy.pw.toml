@@ -1,0 +1,16 @@
+filename = 'cfm-legacy-1.12.2-6.5.1.jar'
+name = "MrCrayfish's Furniture Mod (Legacy 1.12.2)"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b6e36fddbd0e29ce63a1f8fc21b3165593509edc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5954355
+project-id = 997328

@@ -1,0 +1,16 @@
+filename = 'shutupmodelloader-1.12.2-1.0.0.jar'
+name = 'Shut Up, Model Loader!'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b8b002739ca94a967c601557cd905cb3f208a87b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2768009
+project-id = 337001

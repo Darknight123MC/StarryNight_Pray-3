@@ -1,0 +1,16 @@
+filename = 'iblis-headshots-1.2.6.jar'
+name = 'Iblis Headshots'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bdccf5569dca6cbd9f0d9029873ab8a638836bed'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2742537
+project-id = 306886

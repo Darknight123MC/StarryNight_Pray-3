@@ -1,0 +1,16 @@
+filename = 'torohealth-1.12.2-11.jar'
+name = 'ToroHealth Damage Indicators'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6302c65f1c4fd28266d2c4ea33e12c8783e84c9b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2483817
+project-id = 245733

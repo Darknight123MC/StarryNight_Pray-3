@@ -1,0 +1,16 @@
+filename = 'soundreloader-1.2-1.12.2.jar'
+name = 'Sound Reloader'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6c9ab3978cadaff3cb06d6da2e888f2915fb155a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2507277
+project-id = 254144

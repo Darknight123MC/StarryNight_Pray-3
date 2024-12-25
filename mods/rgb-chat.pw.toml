@@ -1,0 +1,16 @@
+filename = 'RGB Chat 0.6.jar'
+name = 'RGB Chat'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1e3dfdf1b34b0ae0f4973cdd384c568f886bb9ef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4595048
+project-id = 702720

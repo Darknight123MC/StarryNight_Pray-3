@@ -1,0 +1,16 @@
+filename = 'KleeSlabs_1.12.2-5.4.12.jar'
+name = 'KleeSlabs'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ed95352b5c4a8dd72366cc25dc48e249cf5cbe2b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2733525
+project-id = 241895

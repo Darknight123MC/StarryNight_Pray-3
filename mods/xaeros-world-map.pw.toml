@@ -1,0 +1,16 @@
+filename = 'XaerosWorldMap_1.39.2_Forge_1.12.jar'
+name = "Xaero's World Map"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '39b8d2cc68ed7827df3deddf68fe785cdda8c8ff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5987126
+project-id = 317780

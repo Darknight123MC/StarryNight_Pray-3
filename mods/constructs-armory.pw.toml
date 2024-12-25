@@ -1,0 +1,16 @@
+filename = 'conarm-1.12.2-1.2.5.10.jar'
+name = "Construct's Armory"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '373e8f6f56605d7eacb5d7d2f4e1ffea5e6d844b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3174535
+project-id = 287683

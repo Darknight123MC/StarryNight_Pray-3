@@ -1,0 +1,16 @@
+filename = 'lostmagic-1.0.3.jar'
+name = 'Lost Magic'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '11cb7faf05eb640e191b2aab8504f1e221dfc2fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4374607
+project-id = 337000

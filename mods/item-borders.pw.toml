@@ -1,0 +1,16 @@
+filename = 'ItemBorders-1.12.2-forge-1.2.0.jar'
+name = 'Item Borders [Neo/Forge]'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '200188ff9b477a615ed556a11a386e3cf816ce5f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4590380
+project-id = 513769

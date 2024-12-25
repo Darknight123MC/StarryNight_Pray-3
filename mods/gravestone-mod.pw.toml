@@ -1,0 +1,16 @@
+filename = 'gravestone-1.10.3.jar'
+name = 'GraveStone Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b2cc9a25054fd6878ba242a6080a2866140bbeb0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2744766
+project-id = 238551

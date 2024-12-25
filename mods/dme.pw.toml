@@ -1,0 +1,16 @@
+filename = 'DeepMobEvolution-1.12.2-1.2.3.jar'
+name = 'Deep Mob Evolution'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3af2c664de02b44f303958406ce1fb5bbc68b94d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5985530
+project-id = 737252

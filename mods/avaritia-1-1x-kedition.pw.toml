@@ -1,0 +1,16 @@
+filename = 'Avaritia-1.12.2-kedition-universal.jar'
+name = 'Avaritia 1.1x Kedition'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '738e07c593ff784d0145c4435567f9ceecbd0638'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4777278
+project-id = 913129

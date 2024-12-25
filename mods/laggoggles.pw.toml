@@ -1,0 +1,16 @@
+filename = 'LagGoggles-1.12.2-5.9-140.jar'
+name = 'LagGoggles'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ef22439d92e38e4fc79df4ff95b2e8708f645db8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4493884
+project-id = 283525

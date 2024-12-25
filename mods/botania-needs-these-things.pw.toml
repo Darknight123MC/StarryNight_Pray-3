@@ -1,0 +1,16 @@
+filename = 'botanianeedsit-1.12.2-3.0-release.jar'
+name = 'Botania Needs These Things!'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9dae2bee3677d33520725e2f8e2afaba9831d7b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2853945
+project-id = 311383

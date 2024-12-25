@@ -1,0 +1,16 @@
+filename = 'Alfheim-1.5-Dev-4.jar'
+name = 'Alfheim Lighting Engine'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'f8e043eea7c125df7cec6113f4ea0fd5e6322a4d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6003953
+project-id = 910715

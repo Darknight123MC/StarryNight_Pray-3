@@ -1,0 +1,16 @@
+filename = 'tweakersconstruct-1.12.2-1.6.1.jar'
+name = 'Tweakers Construct'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'df4e52aa07486b23780102b4ff34df67ce76a2f8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3280750
+project-id = 282623

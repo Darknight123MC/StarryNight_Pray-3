@@ -1,0 +1,16 @@
+filename = 'witcherycompanion-0.33.0-beta.jar'
+name = 'Witchery: Companion'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '901d1eb85fc4dd305ab8349bfdd1afbb901c39ee'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5881317
+project-id = 1020447

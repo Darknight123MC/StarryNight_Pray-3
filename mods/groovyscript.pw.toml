@@ -1,0 +1,16 @@
+filename = 'groovyscript-1.2.0-hotfix1.jar'
+name = 'GroovyScript'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0c4968eb7eabd4ed6bc60bb2276f1691fb99f7da'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5789690
+project-id = 687577

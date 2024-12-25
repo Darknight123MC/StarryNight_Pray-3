@@ -1,0 +1,16 @@
+filename = 'Blur-1.0.4-14.jar'
+name = 'Blur'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.10.2', '1.11.2', '1.12', '1.12.1', '1.12.2', '1.9.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '921d17cfc8aae8df23e30e4547dc30927d6236a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2460821
+project-id = 268324

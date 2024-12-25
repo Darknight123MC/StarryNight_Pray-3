@@ -1,0 +1,16 @@
+filename = 'CustomLoadingScreen-1.12.2-1.5.8.jar'
+name = 'Custom Loading Screen'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b18ec02512ce7e63cd70731e8716818385252a5d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5825891
+project-id = 229302

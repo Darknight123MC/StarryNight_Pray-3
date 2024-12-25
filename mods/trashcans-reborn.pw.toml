@@ -1,0 +1,16 @@
+filename = 'GarbageBins-1.1.1.jar'
+name = 'Garbage Bins'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd6b0198618e1f1358966641be12609fe2c3af4fe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2675062
+project-id = 286710

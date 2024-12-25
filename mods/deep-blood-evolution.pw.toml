@@ -1,0 +1,16 @@
+filename = 'DeepBloodEvolution-1.1.6-e.jar'
+name = 'Deep Blood Evolution'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7b57b3c656458e7218953062782ff17ad686def8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4690550
+project-id = 836009

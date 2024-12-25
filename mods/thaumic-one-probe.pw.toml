@@ -1,0 +1,16 @@
+filename = 'thaumic-one-probe-1.12.2-1.0.0.jar'
+name = 'Thaumic One Probe'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9999dde62ad282b0deeb480156356c1f6854fe97'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3447883
+project-id = 523198

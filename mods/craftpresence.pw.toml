@@ -1,0 +1,16 @@
+filename = 'CraftPresence-2.5.2+1.12.2-forge.jar'
+name = 'CraftPresence'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f5c7a772563ca40629904d076b7928b8ea5e6a0d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5947458
+project-id = 297038

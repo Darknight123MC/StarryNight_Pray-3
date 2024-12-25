@@ -1,0 +1,16 @@
+filename = 'EnderIO-integration-forestry-1.12.2-5.3.72.jar'
+name = 'Ender IO Forestry'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9537516190796e7195e449c6334694d53dab6303'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4674237
+project-id = 297202

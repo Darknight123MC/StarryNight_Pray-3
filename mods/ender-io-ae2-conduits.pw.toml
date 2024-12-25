@@ -1,0 +1,16 @@
+filename = 'EnderIO-conduits-appliedenergistics-1.12.2-5.3.72.jar'
+name = 'Ender IO AE2 Conduits'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c27ca3e94e9729a320e3d05fd58fbba168ff97b8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4674234
+project-id = 297199

@@ -1,0 +1,16 @@
+filename = 'refinedtools-7.75.jar'
+name = 'ReFinedTools'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1dbb580ac09c7e292dca63dfdc1df44de91c4194'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5644169
+project-id = 1085014

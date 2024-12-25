@@ -1,0 +1,16 @@
+filename = 'Chisel-MC1.12.2-1.0.2.45.jar'
+name = 'Chisel'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd378cee9195841ea78bb9800f543d718ef2c60ef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2915375
+project-id = 235279

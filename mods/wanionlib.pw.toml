@@ -1,0 +1,16 @@
+filename = 'WanionLib-1.12.2-2.91.jar'
+name = 'WanionLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '68196be7d926aee4fe8b5c0d535909c5b2ce3f2c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4623135
+project-id = 253043

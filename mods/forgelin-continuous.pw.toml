@@ -1,0 +1,16 @@
+filename = 'Forgelin-Continuous-2.1.0.0.jar'
+name = 'Forgelin-Continuous'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5129eb62edbe41d37c56d72899a3ad42794cb6d6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5946402
+project-id = 456403

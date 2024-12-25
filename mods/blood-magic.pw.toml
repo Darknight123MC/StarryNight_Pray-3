@@ -1,0 +1,16 @@
+filename = 'BloodMagic-1.12.2-2.4.3-105.jar'
+name = 'Blood Magic '
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '541b63338663dbeb5fc818608a70ad3fff129177'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2822288
+project-id = 224791

@@ -1,0 +1,16 @@
+filename = 'lootcapacitortooltips-1.3.jar'
+name = 'Loot Capacitor Tooltips'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f5e36c3d1264202edb6469cacb506636ab2dda72'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2687139
+project-id = 316304

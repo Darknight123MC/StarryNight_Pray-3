@@ -1,0 +1,16 @@
+filename = 'Avaritiaddons-1.12.2-1.9.jar'
+name = 'Avaritiaddons'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4955a50e614aef937a12033716baae5b890d53e0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4745387
+project-id = 248873

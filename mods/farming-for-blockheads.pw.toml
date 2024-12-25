@@ -1,0 +1,16 @@
+filename = 'FarmingForBlockheads_1.12.2-3.1.28.jar'
+name = 'Farming for Blockheads'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '59b2ad2017daaab5b73f2c6851a06b898bcb049b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2733508
+project-id = 261924

@@ -1,0 +1,16 @@
+filename = 'FluxNetworks-1.12.2-4.1.1.34.jar'
+name = 'Flux Networks'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '561e36a86cfa0c19cdaddc897f47acebf1909ef3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3178199
+project-id = 248020

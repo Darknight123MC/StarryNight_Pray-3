@@ -1,0 +1,16 @@
+filename = 'thaumicfixes-1.0-nolibs.jar'
+name = 'Thaumic Fixes'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '8d081378c28212ebc57f9cb0a5374b37a31aa654'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3544037
+project-id = 551619

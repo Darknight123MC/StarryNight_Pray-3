@@ -1,0 +1,16 @@
+filename = 'neverenoughanimations-1.0.4.jar'
+name = 'NeverEnoughAnimation'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'de4fd594452119e4494f0745370faab726a2fac2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5573583
+project-id = 1062347

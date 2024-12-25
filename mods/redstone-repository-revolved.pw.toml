@@ -1,0 +1,16 @@
+filename = 'RedstoneRepository-1.12.2-2.0.0.jar'
+name = 'Redstone Repository Revolved'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '802f74a1cbc3035e5614b19c8360c9f514dc2a30'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3483422
+project-id = 300750

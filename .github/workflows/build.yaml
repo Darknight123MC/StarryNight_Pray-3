@@ -1,0 +1,38 @@
+name: build
+
+on:
+  push:
+    branches:
+      - master-dev
+
+jobs:
+  build:
+    if: "!contains(github.event.head_commit.message, '[build skip]')"
+    name: "Pre Release"
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Declare some variables
+        id: vars
+        shell: bash
+        run: |
+          echo "::set-output name=sha_short::$(git rev-parse --short $GITHUB_SHA)"
+
+      # Export client curse pack & Start serve on localhost:8080
+      - name: Export Client Curse Pack
+        shell: bash
+        run: |
+          chmod +x ./packwiz
+          ./packwiz curseforge export -o client.zip
+
+      - name: Automatic Releases
+        uses: marvinpinto/action-automatic-releases@latest
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: true
+          title: ${{ steps.vars.outputs.sha_short }}
+          files: |
+            client.zip

@@ -1,0 +1,16 @@
+filename = 'keywizard-1.12.2-1.7.3.jar'
+name = 'Keyboard Wizard'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7a2b6c551a18af294db471c1966add0dd85856cc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2841927
+project-id = 262366

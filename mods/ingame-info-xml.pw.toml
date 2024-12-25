@@ -1,0 +1,16 @@
+filename = 'InGameInfoXML-1.12.2-2.8.2.94-universal.jar'
+name = 'InGame Info XML'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '25740e4cffa45a47d13881656ec7ec7e5d02db8a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2489566
+project-id = 225604

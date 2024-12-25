@@ -1,0 +1,16 @@
+filename = 'Draconic-Additions-1.12.2-1.17.0.45-universal.jar'
+name = 'Draconic Additions'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6e4209f20bf109314477368864ce687f1a75d0dd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3514704
+project-id = 314515

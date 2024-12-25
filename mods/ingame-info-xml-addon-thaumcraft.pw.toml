@@ -1,0 +1,16 @@
+filename = 'IGI-Thaumcraft-1.0a.jar'
+name = 'InGame Info XML Addon - Thaumcraft'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'addd18b20fd9a6d38274e094f7c00c822b90346b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2640779
+project-id = 307469

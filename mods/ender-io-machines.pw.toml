@@ -1,0 +1,16 @@
+filename = 'EnderIO-machines-1.12.2-5.3.72.jar'
+name = 'Ender IO Machines'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '86830229fff3b6b5e2772b187800869978708e64'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4674232
+project-id = 297196

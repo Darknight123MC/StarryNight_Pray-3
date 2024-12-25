@@ -1,0 +1,16 @@
+filename = 'BloodArsenal-1.12.2-2.2.2-31.jar'
+name = 'Blood Arsenal'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b8b6696fa7b825349ff333ea30046078150e6ef9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2904183
+project-id = 228823

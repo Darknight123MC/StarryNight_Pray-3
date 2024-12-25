@@ -1,0 +1,16 @@
+filename = 'EnderStorage-1.12.2-2.6.3.jar'
+name = 'Ender Storage continuation'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '29ff6d8543e1aedba8304e9696b6906de62ea5b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5591161
+project-id = 634242

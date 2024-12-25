@@ -1,0 +1,16 @@
+filename = 'IGIExtended-1.12.2-1.1.jar'
+name = 'IGIExteneded'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '71d9843e8eddacbf2fdc6be58f0a26255e877d6e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4076539
+project-id = 656866

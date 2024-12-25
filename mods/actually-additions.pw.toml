@@ -1,0 +1,16 @@
+filename = 'ActuallyAdditions-1.12.2-r152.jar'
+name = 'Actually Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6e5f7deda0d3cf196b38f57eb60ef18a85b0ca2d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3117927
+project-id = 228404

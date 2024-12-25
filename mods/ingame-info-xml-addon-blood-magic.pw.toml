@@ -1,0 +1,16 @@
+filename = 'IGI-BloodMagic-1.2.jar'
+name = 'InGame Info XML Addon - Blood Magic'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'bef09aad4cd01153ee59bcf472c8bc0c758e7c92'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2549047
+project-id = 250328

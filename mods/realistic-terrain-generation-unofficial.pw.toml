@@ -1,0 +1,16 @@
+filename = 'RTGU-1.12.2-1.1.0.jar'
+name = 'Realistic Terrain Generation Unofficial'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c92f573c2f7c6f391658060d77031a3d400563c3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4696300
+project-id = 648514

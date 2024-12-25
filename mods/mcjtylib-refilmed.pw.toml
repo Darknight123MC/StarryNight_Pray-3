@@ -1,0 +1,16 @@
+filename = 'mcjtylib-refilmed-3.5.5-mui.jar'
+name = 'McJtyLib Refilmed'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '73671afbe7159034b9e45dcae96f490ab39435cb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6000853
+project-id = 1086841

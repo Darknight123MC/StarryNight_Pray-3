@@ -1,0 +1,16 @@
+filename = 'Bubbles-2.2.jar'
+name = 'Bubbles'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'fa278295586026ed7cb13dca2ee152899c3741b8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5844968
+project-id = 995393

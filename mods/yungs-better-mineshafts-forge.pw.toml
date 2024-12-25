@@ -1,0 +1,16 @@
+filename = 'BetterMineshaftsForge-1.12.2-2.2.1.jar'
+name = "YUNG's Better Mineshafts (Forge)"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '590de926876fb792f48b120a3483970e8fff3aa3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3247154
+project-id = 389665

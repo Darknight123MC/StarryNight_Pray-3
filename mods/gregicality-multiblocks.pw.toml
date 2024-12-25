@@ -1,0 +1,16 @@
+filename = 'GregicalityMultiblocks-1.2.11.jar'
+name = 'Gregicality Multiblocks'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '87a13e37bccd8c7a55bc4222ae58f5c8f0c84441'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5619513
+project-id = 564858
