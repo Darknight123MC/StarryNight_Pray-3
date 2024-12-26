@@ -255,7 +255,7 @@ customization {
   y = -44
   scale = 1.0
   alignment = left
-  value = §aHello! §b%playername%!
+  value = §aHello! §b%playername%
 }
 
 customization {
@@ -267,7 +267,7 @@ customization {
   y = -34
   scale = 1.0
   alignment = left
-  value = §bStarrynight §bPray§e ★
+  value = §bStarryNight §bPray 3§e ★
 }
 
 customization {
